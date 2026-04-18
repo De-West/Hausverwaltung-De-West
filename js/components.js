@@ -126,7 +126,7 @@ function initComponents() {
                class="footer__link">
               Obermarkstraße 100<br>44267 Dortmund
             </a>
-            <a href="tel:+4915560922517" class="footer__link">+49 231 9272 5415</a>
+            <a href="tel:+4923192725415" class="footer__link">+49 231 9272 5415</a>
             <a href="mailto:d.dewest@immowest-hausverwaltung.de" class="footer__link">d.dewest@immowest-hausverwaltung.de</a>
           </div>
         </div>
