@@ -33,6 +33,14 @@
     <priority>0.7</priority>
   </url>
 
+    <!-- Privacy page -->
+  <url>
+    <loc>https://www.immowest-hausverwaltung.de/pages/privacy.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <!-- thankyou.html and privacy.html are intentionally excluded -->
 
 </urlset>
