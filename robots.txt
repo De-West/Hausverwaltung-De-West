@@ -10,6 +10,7 @@ Allow: /pages/contact.html
 # Exclude thank you and privacy pages from search engines
 Disallow: /pages/thankyou.html
 Disallow: /pages/privacy.html
+Disallow: /pages/impressum.html
 
 # Sitemap location
 Sitemap: https://www.immowest-hausverwaltung.de/sitemap.xml
