@@ -112,6 +112,8 @@ function initComponents() {
             <a href="${root}pages/privacy.html" class="footer__link">Datenschutzerklärung</a>
             <!-- "Imprint" – German law requires this on every commercial website -->
             <a href="${root}pages/impressum.html" class="footer__link">Impressum</a>
+            <!-- "Disclaimers" -->
+            <a href="${root}pages/Haftungsausschluss.html" class="footer__link">Haftungsausschluss</a>
           </div>
         </div>
 
