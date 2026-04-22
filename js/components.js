@@ -136,8 +136,8 @@ function initComponents() {
 
     <!-- Footer bottom bar -->
     <div class="footer__bottom container">
-      <!-- Copyright: "© 2025 Daniel Immobilien – All rights reserved." -->
-      <p class="footer__copy">© 2025 Hausverwaltung de West - Immowest – Alle Rechte vorbehalten.</p>
+      <!-- Copyright: "© 2026 Daniel Immobilien – All rights reserved." -->
+      <p class="footer__copy">© 2026 Hausverwaltung de West - Immowest – Alle Rechte vorbehalten.</p>
       <!-- Disclaimer: "All information without guarantee. Subject to change." -->
       <p class="footer__copy">Alle Angaben ohne Gewähr. Änderungen vorbehalten.</p>
     </div>
